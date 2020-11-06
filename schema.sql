@@ -14,7 +14,7 @@ CREATE TABLE titles (
 	title VARCHAR(40) NOT NULL,
     from_date DATE NOT NULL,
     to_date DATE NOT NULL,
-	PRIMARY KEY (emp_no, title),
+	PRIMARY KEY (emp_no),
 FOREIGN KEY (emp_no) REFERENCES employees (emp_no)
 );
 
