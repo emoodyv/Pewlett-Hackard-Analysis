@@ -20,3 +20,10 @@ rt.title
 INTO unique_titles
 FROM retirement_titles as rt
 ORDER BY emp_no DESC;
+
+-- Getting the count
+SELECT count(ut.title),
+ut.title
+INTO retiring_titles
+FROM unique_titles as ut
+GROUP BY title;
