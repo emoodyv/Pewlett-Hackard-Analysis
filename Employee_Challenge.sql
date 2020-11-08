@@ -26,4 +26,5 @@ SELECT count(ut.title),
 ut.title
 INTO retiring_titles
 FROM unique_titles as ut
-GROUP BY title;
+GROUP BY title
+ORDER BY count DESC;
