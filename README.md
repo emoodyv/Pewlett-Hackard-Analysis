@@ -11,6 +11,7 @@ age. That represents 30.13% of the company. For PH, this should be a very concer
 * Of the employees of retiring age only 2 (of 90,398) are managers. This show that there is an extreme lack of upward
 movement in the company and/or PH employees' careers plateau before they reach management levels. That rundown can be 
 seen below:
+
 ![retiring_titles](https://user-images.githubusercontent.com/71234992/98498920-58819400-2205-11eb-98cc-d2427f989d6c.PNG)
 
 * There is only 1,940 employees eligible for the mentorship program. This is far outweighted by the 90,398 on the edge of 
